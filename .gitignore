@@ -1,5 +1,7 @@
+# Python environments
 .ipynb_checkpoints
 venv
+.python-version
 
 # Ignore data files
 data
