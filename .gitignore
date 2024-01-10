@@ -8,3 +8,6 @@ data
 
 # Ignore Tensorboard run logs
 runs
+
+# Ignore Pytorch models.
+*.pth
