@@ -1,8 +1,13 @@
+# Python environments
 .ipynb_checkpoints
 venv
+.python-version
 
 # Ignore data files
 data
 
 # Ignore Tensorboard run logs
 runs
+
+# Ignore Pytorch models.
+*.pth
